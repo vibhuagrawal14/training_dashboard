@@ -11,7 +11,7 @@
 
 # TrainingDashboard
 
-Plot inter-epoch and intra-epoch loss and metrics with a simple callback. Features:
+Plot inter-epoch and intra-epoch loss and metrics within a jupyter notebook with a simple callback. Features:
 * Plots the training loss and a training metric, updated at the end of each batch
 * Plots training and validation losses, updated at the end of each epoch
 * For each metric, plots training and validation values, updated at the end of each epoch
