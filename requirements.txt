@@ -1,0 +1,4 @@
+bqplot
+ipywidgets
+pandas
+tensorflow
