@@ -9,7 +9,7 @@ setup(
     name='training_dashboard',
     version='0.1.0',
     description='No bullshit, dead simple training visualizer for tf-keras.',
-    url='https://github.com/vibhuagrawal14/training-dashboard',
+    url='https://github.com/vibhuagrawal14/training_dashboard',
     author='Vibhu Agrawal',
     author_email='vibhu.agrawal14@gmail.com',
     long_description=long_description,
